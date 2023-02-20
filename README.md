@@ -1,6 +1,16 @@
 # coderefinery-documentation-example-project
 Example project for coderefinery documentation lesson. This example serves as an exercise to understand how to create good readme files 
-for software development projects. 
+for software development projects. As a bare minimum a README file should include:
+
+- A descriptive project title
+
+- Motivation (why the project exists)
+
+- How to setup
+
+- Copy-pastable quick start code example
+
+- Recommended citation
 
 ### Temperature analysis in spreadsheets
 
